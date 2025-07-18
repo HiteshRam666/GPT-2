@@ -1,0 +1,5 @@
+pytorch
+torchinfo
+numpy 
+tiktoken 
+tqdm 
