@@ -153,4 +153,34 @@ Transformers are the foundation of most modern LLMs, including all versions of G
 
 <img width="922" height="396" alt="image" src="https://github.com/user-attachments/assets/4fb2857a-4a07-4976-95e2-c112c9db89e3" />
 
+---
+## 📚 References
+
+1. **Vaswani et al., 2017** — [Attention Is All You Need](https://arxiv.org/abs/1706.03762)  
+   The original paper that introduced the Transformer architecture.
+
+2. **Build LLM From Scratch** by Sebastian Raschka 
+
+3. **Radford et al., 2019** — [Language Models are Unsupervised Multitask Learners](https://openai.com/research/better-language-models)  
+   Official blog post by OpenAI describing GPT-2 and its capabilities.
+
+4. **OpenAI GPT-2 GitHub Repository**  
+   https://github.com/openai/gpt-2
+
+5. **Hugging Face Transformers** — [GitHub](https://github.com/huggingface/transformers)  
+   Widely used library for working with pre-trained transformer models (used as a reference).
+
+6. **The Illustrated Transformer** by Jay Alammar  
+   https://jalammar.github.io/illustrated-transformer/  
+   A highly recommended visual guide to understanding how transformers work.
+
+7. **SMS Spam Collection Dataset** — [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)  
+   Used as one of the fine-tuning datasets for text classification.
+
+8. **PyTorch Documentation** — https://pytorch.org/docs/stable/index.html  
+   Official documentation for the deep learning framework used in this project.
+
+9. **NumPy Documentation** — https://numpy.org/doc/
+
+
 
