@@ -1,0 +1,2 @@
+echo "notebooks/*.pth" >> .gitignore
+echo "notebooks/**/*.ckpt*" >> .gitignore
