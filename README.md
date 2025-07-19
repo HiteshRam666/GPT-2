@@ -1,6 +1,6 @@
 # 🧠 GPT-2 From Scratch
 
-This project is a simplified, educational implementation of **GPT-2** — a powerful **Large Language Model (LLM)** developed by OpenAI — built entirely from scratch using the Transformer architecture.
+This project is a simplified, implementation of **GPT-2** — a powerful **Large Language Model (LLM)** developed by OpenAI — built entirely from scratch using the Transformer architecture.
 
 ---
 
